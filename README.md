@@ -1,5 +1,7 @@
-# NFSU-PS2-Demo-Sound-Mod
+# NFSU PS2 Demo Sound Mod
 A mod for Need for Speed Underground replacing PC sounds with PS2 Demo sounds as heard [here](www.youtube.com/watch?v=dg_lWVMTgyg).
+
+The official video of the mod preview is [here](https://www.youtube.com/watch?v=ZzKTwb9UEPo).
 
 I picked out certain sounds which I replaced in the commercial release version of PC.
 
